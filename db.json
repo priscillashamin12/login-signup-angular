@@ -1,0 +1,18 @@
+{
+  "signupUsers": [
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 1
+    },
+    {
+      "fullname": "Priscilla Shamin",
+      "email": "priscillashamin12@gmail.com",
+      "password": "12@Jasmine",
+      "mobile": 9655178490,
+      "id": 2
+    }
+  ]
+}

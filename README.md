@@ -1,6 +1,20 @@
-# LoginSignupAngular
+# Login & Signup using Angular
+
+This project has Login and Sign up page developed using Angular.
+
+Angular login and signup - https://www.youtube.com/watch?v=eMJ5spB3P1c 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
+
+## json-server
+First, you need to check json-server installed globally or not. or you can install it globally by
+
+npm install -g json-server
+If you install it locally in your project, use npx to run it
+
+npx json-server --watch db.json
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:3000/`.
 
 ## Development server
 
